@@ -1,0 +1,6 @@
+framework module Pods_Peer_2_PeerTests {
+  umbrella header "Pods-Peer 2 PeerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

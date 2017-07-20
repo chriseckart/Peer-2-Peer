@@ -57,12 +57,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2CA7125CF74194E562C385A5 /* Pods-Peer 2 Peer.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Peer 2 Peer.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Peer 2 Peer/Pods-Peer 2 Peer.debug.xcconfig"; sourceTree = "<group>"; };
-		61548459BC1A360C4DDB9564 /* Pods-Peer 2 PeerUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Peer 2 PeerUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Peer 2 PeerUITests/Pods-Peer 2 PeerUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		2248575BCE27F756A4C0D247 /* Pods-Peer 2 Peer.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Peer 2 Peer.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Peer 2 Peer/Pods-Peer 2 Peer.debug.xcconfig"; sourceTree = "<group>"; };
+		54065DB6984DD169C3D8A719 /* Pods-Peer 2 PeerTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Peer 2 PeerTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Peer 2 PeerTests/Pods-Peer 2 PeerTests.debug.xcconfig"; sourceTree = "<group>"; };
 		83A1B81CB9E94A3902C55E10 /* Pods_Peer_2_PeerTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Peer_2_PeerTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FC8EA653C26C2D911075CD1 /* Pods_Peer_2_Peer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Peer_2_Peer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		A38F04C6DC01B18287F8AEE5 /* Pods-Peer 2 PeerTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Peer 2 PeerTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Peer 2 PeerTests/Pods-Peer 2 PeerTests.release.xcconfig"; sourceTree = "<group>"; };
+		A20188465AC1025914F68FED /* Pods-Peer 2 Peer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Peer 2 Peer.release.xcconfig"; path = "Pods/Target Support Files/Pods-Peer 2 Peer/Pods-Peer 2 Peer.release.xcconfig"; sourceTree = "<group>"; };
 		A4DC3C945704EA3D61855E2E /* Pods_Peer_2_PeerUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Peer_2_PeerUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A669734127DA8FBF36C3A5CE /* Pods-Peer 2 PeerUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Peer 2 PeerUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Peer 2 PeerUITests/Pods-Peer 2 PeerUITests.release.xcconfig"; sourceTree = "<group>"; };
 		A70213371E8D3B83000BD030 /* Peer 2 Peer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Peer 2 Peer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A702133A1E8D3B83000BD030 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A702133C1E8D3B83000BD030 /* SignUpVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpVC.swift; sourceTree = "<group>"; };
@@ -97,9 +98,8 @@
 		A798B5111E92CD85007F1B23 /* UserInfoCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserInfoCell.swift; sourceTree = "<group>"; };
 		A7CBD8CD1E9C6C140051DE8B /* ChooseTutorCollectionVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChooseTutorCollectionVC.swift; sourceTree = "<group>"; };
 		A7CBD8CF1E9C6F440051DE8B /* TutorCVCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TutorCVCell.swift; sourceTree = "<group>"; };
-		B1479528FE4E5E936FA4400A /* Pods-Peer 2 PeerTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Peer 2 PeerTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Peer 2 PeerTests/Pods-Peer 2 PeerTests.debug.xcconfig"; sourceTree = "<group>"; };
-		DC0D08C5FD0E2C19F5EF5C1B /* Pods-Peer 2 PeerUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Peer 2 PeerUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Peer 2 PeerUITests/Pods-Peer 2 PeerUITests.release.xcconfig"; sourceTree = "<group>"; };
-		EA342A71451F881C8735A2B4 /* Pods-Peer 2 Peer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Peer 2 Peer.release.xcconfig"; path = "Pods/Target Support Files/Pods-Peer 2 Peer/Pods-Peer 2 Peer.release.xcconfig"; sourceTree = "<group>"; };
+		B552CE92D4AE92E6CAE4F724 /* Pods-Peer 2 PeerTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Peer 2 PeerTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Peer 2 PeerTests/Pods-Peer 2 PeerTests.release.xcconfig"; sourceTree = "<group>"; };
+		D13EA534EBA2B8E10F34EA9B /* Pods-Peer 2 PeerUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Peer 2 PeerUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Peer 2 PeerUITests/Pods-Peer 2 PeerUITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,15 +130,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2080506D561474398ECE2702 /* Pods */ = {
+		84C1D43639CB5DBAE45ECF8D /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				2CA7125CF74194E562C385A5 /* Pods-Peer 2 Peer.debug.xcconfig */,
-				EA342A71451F881C8735A2B4 /* Pods-Peer 2 Peer.release.xcconfig */,
-				B1479528FE4E5E936FA4400A /* Pods-Peer 2 PeerTests.debug.xcconfig */,
-				A38F04C6DC01B18287F8AEE5 /* Pods-Peer 2 PeerTests.release.xcconfig */,
-				61548459BC1A360C4DDB9564 /* Pods-Peer 2 PeerUITests.debug.xcconfig */,
-				DC0D08C5FD0E2C19F5EF5C1B /* Pods-Peer 2 PeerUITests.release.xcconfig */,
+				2248575BCE27F756A4C0D247 /* Pods-Peer 2 Peer.debug.xcconfig */,
+				A20188465AC1025914F68FED /* Pods-Peer 2 Peer.release.xcconfig */,
+				54065DB6984DD169C3D8A719 /* Pods-Peer 2 PeerTests.debug.xcconfig */,
+				B552CE92D4AE92E6CAE4F724 /* Pods-Peer 2 PeerTests.release.xcconfig */,
+				D13EA534EBA2B8E10F34EA9B /* Pods-Peer 2 PeerUITests.debug.xcconfig */,
+				A669734127DA8FBF36C3A5CE /* Pods-Peer 2 PeerUITests.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -150,8 +150,8 @@
 				A70213501E8D3B83000BD030 /* Peer 2 PeerTests */,
 				A702135B1E8D3B83000BD030 /* Peer 2 PeerUITests */,
 				A70213381E8D3B83000BD030 /* Products */,
-				2080506D561474398ECE2702 /* Pods */,
 				DA85F62D4DA2905008FC6DE5 /* Frameworks */,
+				84C1D43639CB5DBAE45ECF8D /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -705,7 +705,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -713,7 +713,7 @@
 		};
 		A70213621E8D3B83000BD030 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2CA7125CF74194E562C385A5 /* Pods-Peer 2 Peer.debug.xcconfig */;
+			baseConfigurationReference = 2248575BCE27F756A4C0D247 /* Pods-Peer 2 Peer.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "Peer 2 Peer/Peer 2 Peer.entitlements";
@@ -728,7 +728,7 @@
 		};
 		A70213631E8D3B83000BD030 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EA342A71451F881C8735A2B4 /* Pods-Peer 2 Peer.release.xcconfig */;
+			baseConfigurationReference = A20188465AC1025914F68FED /* Pods-Peer 2 Peer.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "Peer 2 Peer/Peer 2 Peer.entitlements";
@@ -743,7 +743,7 @@
 		};
 		A70213651E8D3B83000BD030 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B1479528FE4E5E936FA4400A /* Pods-Peer 2 PeerTests.debug.xcconfig */;
+			baseConfigurationReference = 54065DB6984DD169C3D8A719 /* Pods-Peer 2 PeerTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -759,7 +759,7 @@
 		};
 		A70213661E8D3B83000BD030 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A38F04C6DC01B18287F8AEE5 /* Pods-Peer 2 PeerTests.release.xcconfig */;
+			baseConfigurationReference = B552CE92D4AE92E6CAE4F724 /* Pods-Peer 2 PeerTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -775,7 +775,7 @@
 		};
 		A70213681E8D3B83000BD030 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 61548459BC1A360C4DDB9564 /* Pods-Peer 2 PeerUITests.debug.xcconfig */;
+			baseConfigurationReference = D13EA534EBA2B8E10F34EA9B /* Pods-Peer 2 PeerUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = LV2DK9Y3L4;
@@ -790,7 +790,7 @@
 		};
 		A70213691E8D3B83000BD030 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DC0D08C5FD0E2C19F5EF5C1B /* Pods-Peer 2 PeerUITests.release.xcconfig */;
+			baseConfigurationReference = A669734127DA8FBF36C3A5CE /* Pods-Peer 2 PeerUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = LV2DK9Y3L4;
