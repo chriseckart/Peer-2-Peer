@@ -429,7 +429,15 @@ Copyright 2016 Google
    limitations under the License.
 
 
+## GoogleAppUtilities
+
+Copyright 2016 Google
+
 ## GoogleInterchangeUtilities
+
+Copyright 2016 Google
+
+## GoogleSignIn
 
 Copyright 2016 Google
 

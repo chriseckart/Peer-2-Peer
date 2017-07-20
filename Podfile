@@ -9,7 +9,7 @@ target 'Peer 2 Peer' do
 
   # Pods for Peer 2 Peer
   pod 'Firebase'
-  pod 'GTMOAuth2'
+  pod 'GoogleSignIn'
 
   target 'Peer 2 PeerTests' do
     inherit! :search_paths
