@@ -25,6 +25,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate, GIDSignInDelegate, GIDSig
         GIDSignIn.sharedInstance().delegate = self
         
         // christopher eckart, this is your mom, please help, marius has me tied up and whoever is with you is NOT your mother 
+        // ohhhhhh ok swag i will find my real mom
         
         // retrieve data from online!!!
         // 1) fetch user profile from google
