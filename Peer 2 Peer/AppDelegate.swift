@@ -24,6 +24,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate, GIDSignInDelegate, GIDSig
         GIDSignIn.sharedInstance().clientID = FIRApp.defaultApp()?.options.clientID
         GIDSignIn.sharedInstance().delegate = self
         
+        // christopher eckart, this is your mom, please help, marius has me tied up and whoever is with you is NOT your mother 
+        
         // retrieve data from online!!!
         // 1) fetch user profile from google
         // 2) fetch curriculum branch from firebase
