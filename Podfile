@@ -8,8 +8,16 @@ target 'Peer 2 Peer' do
   use_frameworks!
 
   # Pods for Peer 2 Peer
-  pod 'Firebase'
   pod 'GoogleSignIn'
+  pod 'Firebase/Core'
+  pod 'Firebase/AdMob'
+  pod 'Firebase/Messaging'
+  pod 'Firebase/Database'
+  pod 'Firebase/Invites'
+  pod 'Firebase/DynamicLinks'
+  pod 'Firebase/Crash'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Storage'
 
   target 'Peer 2 PeerTests' do
     inherit! :search_paths

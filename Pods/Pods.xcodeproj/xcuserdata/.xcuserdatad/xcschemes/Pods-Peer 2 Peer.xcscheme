@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '11A95E0D183123A834C5373DE1742F77'
+               BlueprintIdentifier = 'D919766FBB32404002FE3EED12825D36'
                BlueprintName = 'Pods-Peer 2 Peer'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Pods-Peer 2 Peer.framework'>

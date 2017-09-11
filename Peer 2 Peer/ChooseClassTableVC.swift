@@ -41,6 +41,7 @@ class ChooseClassTableVC: UITableViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         print("selected block is on ChooseClassTableVC",selectedBlock)
+        print(classList)
     }
     
     override func viewDidDisappear(_ animated: Bool) {

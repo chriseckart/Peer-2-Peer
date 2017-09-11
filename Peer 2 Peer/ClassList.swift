@@ -42,6 +42,7 @@ class SpecificClass: AnyObject{
         subject = (snapshot.value! as AnyObject)["subject"] as? String
         
         ref = snapshot.ref
+        
     }
 }
 

@@ -13,7 +13,6 @@ import Firebase
 
 class ChooseSubjectTableVC: UITableViewController {
     
-    
     var selectedBlock = ""
     
     // MARK: ModalViewControllerDelegate protocol
@@ -174,6 +173,8 @@ class ChooseSubjectTableVC: UITableViewController {
                         let certainClass = SpecificClass(snapshot:child as! FIRDataSnapshot)
                         
                         subjectArray.append(certainClass)
+                        
+                        print(subjectArray)
                     }
                     TargetDestination.classList = subjectArray
                     TargetDestination.tableView.reloadData()
@@ -209,6 +210,7 @@ class ChooseSubjectTableVC: UITableViewController {
             
             TargetDestination.selectedSubject = selectedSubject
             TargetDestination.selectedBlock = selectedBlock
+            print(TargetDestination.classList)
         }
         // Pass the selected object to the new view controller.
     }
