@@ -7,6 +7,7 @@
 //
 
 import XCTest
+import Firebase
 @testable import Peer_2_Peer
 
 class Peer_2_PeerTests: XCTestCase {

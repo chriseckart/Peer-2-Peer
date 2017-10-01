@@ -9,7 +9,7 @@
 import Foundation
 import Firebase
 
-class Appointment: AnyObject{
+class Appointment {
     var classTitle: String?
     var appointmentDate: String?
     var blockLetter: String?

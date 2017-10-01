@@ -125,9 +125,14 @@ class ChooseTutorCollectionVC: UICollectionViewController, UICollectionViewDeleg
     }
     
     override func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
-        chosenTutor = tutorNamesList[indexPath.row]
-        chosenTutorID = tutorIDsList[indexPath.row]
-        print(chosenTutor)
+        
+        if noTutors == false {
+            chosenTutor = tutorNamesList[indexPath.row]
+            chosenTutorID = tutorIDsList[indexPath.row]
+            print(chosenTutor)
+        }else{
+            //self.make button invisible
+        }
     }
 
     
